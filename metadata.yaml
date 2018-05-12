@@ -1,0 +1,36 @@
+_repo: Historical-Introduction-to-Studies-Among-the-Sedentary-Indians-of-New-Mexico--Report-on-the-R__23224
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bandelier, Adolph Francis Alphonse
+    aliases:
+    - Bandelier, Adolf F.
+    - Bandelier, A. F. (Adolph Francis)
+    - Bandelier, Adolph F. (Adolph Francis)
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '7940'
+    url: http://www.gutenberg.org/2009/agents/7940
+    wikipedia: http://en.wikipedia.org/wiki/Adolph_Francis_Alphonse_Bandelier
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2007-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pueblo Indians'
+- !lcc 'E011'
+- !lcsh 'New Mexico -- Antiquities'
+- !lcsh 'Pecos National Monument (N.M.)'
+title: "Historical Introduction to Studies Among the Sedentary Indians of New Mexico;\
+  \ Report on the Ruins of the Pueblo of Pecos\r\nPapers Of The Archæological Institute\
+  \ Of America, American Series, Vol. I"
+url: http://www.gutenberg.org/ebooks/23224
